@@ -36,4 +36,9 @@ bazel-*
 
 # vscode configs
 .vscode
-build.cmake
+build
+build_tutorial
+_include
+*.cmake
+Debug
+Release
